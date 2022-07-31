@@ -1,6 +1,6 @@
 ### I'm Eduardo Lira 👋
 
-- 📝 I have 4 months of experience in HTML & CSS and I'm learning JavaScript.
+- 📝 I have 8 months of experience in HTML & CSS and I'm learning JavaScript.
 - 👯 I’m looking to collaborate with other devs
 
 ### Connect with me:
